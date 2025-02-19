@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-- [Detalhamento de funcionalidades]()
+- [Detalhamento de funcionalidades - Slide](https://github.com/camilaqPereira/embarcatech_adc/blob/3aafd3212f83c2b3718628fff062ebdec99dfc27/docs/sobre_o_projeto_slide.pdf)
 - [Sobre o projeto - Youtube](https://youtu.be/pJVfGiFf-tc)
 - [Demonstração de funcionamento - Youtube](https://youtube.com/shorts/f5xuEspl1DI)
 
